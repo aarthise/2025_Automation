@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-11-17T22:13:30 EST" name="Default suite" finished-at="2025-11-17T22:13:45 EST" duration-ms="15015">
+    <groups>
+    </groups>
+    <test started-at="2025-11-17T22:13:30 EST" name="Default test" finished-at="2025-11-17T22:13:45 EST" duration-ms="15015">
+      <class name="org.wipro.automation.saucedemo.testcases.SignUpScenario_DDF">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:org.wipro.automation.saucedemo.testcases.SignUpScenario_DDF@72057ecf]" started-at="2025-11-17T22:13:30 EST" name="launchBrowser" finished-at="2025-11-17T22:13:34 EST" duration-ms="4424" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="validate_valid_Signup_functionality(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:org.wipro.automation.saucedemo.testcases.SignUpScenario_DDF@72057ecf]" started-at="2025-11-17T22:13:34 EST" name="validate_valid_Signup_functionality" data-provider="signup" finished-at="2025-11-17T22:13:36 EST" duration-ms="1853" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[John]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[lee]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2000]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[user1]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[pass1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_valid_Signup_functionality -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:org.wipro.automation.saucedemo.testcases.SignUpScenario_DDF@72057ecf]" started-at="2025-11-17T22:13:36 EST" name="closeBrowser" finished-at="2025-11-17T22:13:36 EST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:org.wipro.automation.saucedemo.testcases.SignUpScenario_DDF@72057ecf]" started-at="2025-11-17T22:13:36 EST" name="launchBrowser" finished-at="2025-11-17T22:13:39 EST" duration-ms="2228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="validate_valid_Signup_functionality(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:org.wipro.automation.saucedemo.testcases.SignUpScenario_DDF@72057ecf]" started-at="2025-11-17T22:13:39 EST" name="validate_valid_Signup_functionality" data-provider="signup" finished-at="2025-11-17T22:13:40 EST" duration-ms="1875" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[David]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Seo]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2020]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[user2]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[pass2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_valid_Signup_functionality -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:org.wipro.automation.saucedemo.testcases.SignUpScenario_DDF@72057ecf]" started-at="2025-11-17T22:13:40 EST" name="closeBrowser" finished-at="2025-11-17T22:13:40 EST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:org.wipro.automation.saucedemo.testcases.SignUpScenario_DDF@72057ecf]" started-at="2025-11-17T22:13:40 EST" name="launchBrowser" finished-at="2025-11-17T22:13:43 EST" duration-ms="2624" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="validate_valid_Signup_functionality(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:org.wipro.automation.saucedemo.testcases.SignUpScenario_DDF@72057ecf]" started-at="2025-11-17T22:13:43 EST" name="validate_valid_Signup_functionality" data-provider="signup" finished-at="2025-11-17T22:13:45 EST" duration-ms="1887" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rahul]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Dravid]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2021]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[user3]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[pass3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_valid_Signup_functionality -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:org.wipro.automation.saucedemo.testcases.SignUpScenario_DDF@72057ecf]" started-at="2025-11-17T22:13:45 EST" name="closeBrowser" finished-at="2025-11-17T22:13:45 EST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- org.wipro.automation.saucedemo.testcases.SignUpScenario_DDF -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

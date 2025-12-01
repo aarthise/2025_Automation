@@ -1,0 +1,11 @@
+create an activity diagram for the leave management system
+
+when the employee logs in, check if the employee is full-time or contract
+
+contract employee is eligible for 1 sick leave per month, if he wants more it will be loss of pay
+
+use case diagram to get the current weather report
+use the actors
+
+wireframe,mockup and prototype
+create an account and login to uizard
