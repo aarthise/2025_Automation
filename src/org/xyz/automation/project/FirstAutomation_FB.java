@@ -16,7 +16,7 @@ public class FirstAutomation_FB {
 		driver.get("https://www.facebook.com/");
 		WebElement username = driver.findElement(By.id("email"));
 		username.sendKeys("aarthi.se@gmail.com");
-		driver.findElement(By.name("pass")).sendKeys("Ammani@123");
+		driver.findElement(By.name("pass")).sendKeys("");
 		driver.findElement(By.cssSelector("[type='submit']")).click();
 		driver.close();
 		
